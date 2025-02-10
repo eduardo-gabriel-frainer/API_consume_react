@@ -1,4 +1,4 @@
-# App Consumo de api Usando React (Parte 2)
+# App Consumo de api Usando React (Frontend Parte 2)
 
 Este é o frontend de um sistema de cadastro de usuários, desenvolvido para consumir a API que postei anteriormente. O projeto oferece uma interface intuitiva para gerenciar usuários de forma eficiente
 
